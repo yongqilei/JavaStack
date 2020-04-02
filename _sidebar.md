@@ -2,4 +2,4 @@
     - [README](README.md)
 
 - Amazon Web Service
-  - [AWS SAA Exam Tips](/docs/aws/aws-exam-tips.md)
+  - [AWS SAA Exam Tips](/aws/aws-exam-tips.md)

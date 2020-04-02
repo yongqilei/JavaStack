@@ -1,5 +1,3 @@
-<img width="180px" style="border-radius: 50%" bor src="book.svg">
-
 # Java Stack
 
 [![stars](https://badgen.net/github/stars/ryan4cloud/JavaStack?icon=github&color=4ab8a1)](https://github.com/ryan4cloud/JavaStack) [![forks](https://badgen.net/github/forks/ryan4cloud/JavaStack?icon=github&color=4ab8a1)](https://github.com/ryan4cloud/JavaStack)

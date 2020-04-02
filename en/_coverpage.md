@@ -5,5 +5,5 @@
 - This is my learning process as a `Java Developer`, hope it's helpful for you guys. If you like this documents, don't forget to give me a star!
 
 [GitHub](https://github.com/ryan4cloud/JavaStack)
-[Get Started](README.md)
+[Get Started](/en/README.md)
 
